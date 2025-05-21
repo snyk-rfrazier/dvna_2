@@ -13,6 +13,7 @@
   "author": "sns",
   "license": "MIT",
   "dependencies": {
+    "dicer": "0.2.5",
     "node-serialize": "0.0.4"
   }
 }
